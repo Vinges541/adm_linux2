@@ -1,0 +1,5 @@
+[Unit]
+Description=hw1 test timer service
+
+[Service]
+ExecStart=/opt/hw1.sh
